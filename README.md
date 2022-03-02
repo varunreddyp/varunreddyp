@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varunreddyp
 - 👀 I’m interested in python,javascript,angular,.net.
 - 🌱 I’m currently learning javascript,.net.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python,java script,.netand angular.
 - 📫 How to reach me ... varunreddy428@gmail.com
   
 <!---
